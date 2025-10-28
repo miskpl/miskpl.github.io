@@ -1,3 +1,1 @@
-# misk.github.io
-sample text
-
+# sample text
